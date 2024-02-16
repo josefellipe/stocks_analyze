@@ -9,6 +9,8 @@ python3 -m venv venv
 pip3 install -r requirements.txt
 
 
+2 - É necessário que o outro projeto (wallet_bazin_new) esteja rodando
+
 ** Crie um arquivo .env com as seguintes credenciais:
 DB_NAME=bazin
 DB_USER=admin
